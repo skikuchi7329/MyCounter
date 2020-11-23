@@ -1,0 +1,30 @@
+#Disp_count {
+  background-color: #093;
+  color: #fff;
+  font-size: 72px;
+  border-radius: 10px;
+  padding: 20px;
+  display: table-cell;
+}
+
+#Btn_countUp {
+  font-size: 36px;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+#Btn_reset {
+  font-size: 36px;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+#Btn_countUp:hover {
+  background-color: #f30;
+}
+
+#Btn_reset:hover {
+  background-color: #f30;
+}
