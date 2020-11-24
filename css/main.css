@@ -1,24 +1,28 @@
 #Disp_count {
+  width: 60px;
   background-color: #093;
   color: #fff;
   font-size: 72px;
+  text-align: center;
   border-radius: 10px;
   padding: 20px;
   display: table-cell;
 }
 
 #Btn_countUp {
-  font-size: 36px;
+  font-size: 20px;
+  width: 100px;
   border-radius: 10px;
   padding: 10px;
   margin-top: 10px;
 }
 
 #Btn_reset {
-  font-size: 36px;
+  font-size: 20px;
   border-radius: 10px;
   padding: 10px;
   margin-top: 10px;
+
 }
 
 #Btn_countUp:hover {
