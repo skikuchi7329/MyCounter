@@ -59,6 +59,22 @@
   justify-content: space-between;
 }
 
+#Btn_countUp1:hover {
+  cursor: pointer;
+}
+#Btn_countUp2:hover {
+  cursor: pointer;
+}
+#Btn_countUp3:hover {
+  cursor: pointer;
+}
+#Btn_countUp4:hover {
+  cursor: pointer;
+}
+#Btn_countUp5:hover {
+  cursor: pointer;
+}
+
 #Btn_countUp1 {
   font-size: 20px;
   width: 100px;
